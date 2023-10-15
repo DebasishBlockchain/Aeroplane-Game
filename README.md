@@ -5,7 +5,7 @@ This is a simple animated aeroplane game built with HTML, CSS, and JavaScript.
 The Aeroplane Game is a fun and interactive web-based game where you control an aeroplane's flight. Your objective is to fly the aeroplane for as long as possible while maintaining control and skill. The game offers an exciting challenge for players to test their flying skills.
 
 <h1 align="center">
-  <a href="https://(aeroplane-game.netlify.app/)/">👉Live Demo</a>
+  <a href="[https://(aeroplane-game.netlify.app/)/](https://aeroplane-game.netlify.app/)">👉Live Demo</a>
 </h1>
 ## Screenshots
 
